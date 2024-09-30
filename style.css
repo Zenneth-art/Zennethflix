@@ -7,5 +7,13 @@ margin: 0px;
 
 header{
 border-bottom: solid 2px rgb(154, 42, 228);
+padding: 20px;
+font-size: 32px;
+color: rgb(42,122,288)
+}
 
+section{
+    background: rgb(42, 35, 48);
+    padding-bottom: 80PX;
+    padding-top: 80px;
 }
